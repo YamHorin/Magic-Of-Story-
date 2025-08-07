@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd216126-aac2-41f8-b037-4c1b7d063fa5" name="Changes" comment="yam" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testing" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YamHorin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YamHorin/Magic-Of-Story-.git&quot;,
+    &quot;accountId&quot;: &quot;bdd4b592-eed0-4907-bbfb-2736f4ee7aa3&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2y90G8vlXy4SiApsCwwGwqQHj4j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter Test.test book from user.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter Test.test make sequel book - original book is found .executor&quot;: &quot;Run&quot;,
+    &quot;Flutter Test.tests in search_test.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter Test.tests in widget_test.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.test_with_tablet.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/horin/OneDrive/מסמכים/GitHub/Magic-Of-Story-/APP&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;language.cpp&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\android\app\src\main\res\drawable" />
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\android\app\src\main\res" />
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\integration_test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\assets\img" />
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\ios\Runner" />
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\android\app\src\main\res" />
+      <recent name="C:\Users\horin\AndroidStudioProjects\AI_books_project\integration_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="test_with_tablet" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/integration_test/non_functional_testing_1.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test book from user" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="test book from user" />
+      <option name="testFile" value="$PROJECT_DIR$/integration_test/functional_testing_1.dart" />
+      <option name="useRegexp" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test make sequel book - original book is found " type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="test make sequel book - original book is found " />
+      <option name="testFile" value="$PROJECT_DIR$/integration_test/functional_testing_3.dart" />
+      <option name="useRegexp" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in search_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" nameIsGenerated="true">
+      <option name="testFile" value="C:\Users\horin\AndroidStudioProjects\AI_books_project\integration_test\search_test.dart" />
+      <option name="useRegexp" value="false" />
+      <option name="additionalArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter.test_with_tablet" />
+      <item itemvalue="Flutter Test.tests in search_test.dart" />
+      <item itemvalue="Flutter Test.test make sequel book - original book is found " />
+      <item itemvalue="Flutter Test.test book from user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.test make sequel book - original book is found " />
+        <item itemvalue="Flutter Test.test book from user" />
+        <item itemvalue="Flutter Test.test book from user" />
+        <item itemvalue="Flutter Test.test book from user" />
+        <item itemvalue="Flutter Test.test book from user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd216126-aac2-41f8-b037-4c1b7d063fa5" name="Changes" comment="" />
+      <created>1749231382400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749231382400</updated>
+    </task>
+    <task id="LOCAL‎-00001" summary="add tests , add keys to widgets , Yam 10.6">
+      <option name="closed" value="true" />
+      <created>1749569701345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1749569701345</updated>
+    </task>
+    <task id="LOCAL‎-00002" summary="fix menu bug ,fix colors , fix best seller item size , Yam 13.3">
+      <option name="closed" value="true" />
+      <created>1749764161600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1749764161600</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="Dynamic content loading and UI updates&#10;&#10;This commit introduces several changes to enhance the application's dynamic content loading and user interface:&#10;&#10;- **Home View:**&#10;    - Loads &quot;Top Picks&quot; and &quot;Best Rated&quot; books from the `BookService`.&#10;    - Adjusts the height of the &quot;Best Seller&quot; section for better layout.&#10;- **Top Picks Cell:**&#10;    - Randomly selects an image from the book's pages to display as the cover.&#10;- **Best Seller Cell:**&#10;    - Modifies image dimensions and text font sizes for improved visual consistency.&#10;- **Auth Service:**&#10;    - Adds debug print statements for login responses.&#10;- **Sign In View:**&#10;    - Loads &quot;Top Picks&quot; books after successful login.&#10;- **Book Service:**&#10;    - Implements methods to fetch &quot;Top Picks&quot; and &quot;Most Rated&quot; books from the backend.&#10;    - Stores fetched books in new internal lists (`_books_top_pick`, `_books_most_rated`).&#10;- **Account View:**&#10;    - Loads and displays the user's books.&#10;    - Adjusts the styling of the purchased books section.">
+      <option name="closed" value="true" />
+      <created>1749907259887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1749907259887</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="update home view , book service , top_pick view 15.6">
+      <option name="closed" value="true" />
+      <created>1750006040336</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750006040336</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="update user pref to handel genres , update home screen so the genres books and the recent added books will get from thr DB">
+      <option name="closed" value="true" />
+      <created>1750194432273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750194432273</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="add spin loading screen to 2 first fitures Yam 18.6">
+      <option name="closed" value="true" />
+      <created>1750254529219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750254529219</updated>
+    </task>
+    <task id="LOCAL‎-00007" summary="update profile screen 20.6">
+      <option name="closed" value="true" />
+      <created>1750447367800</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750447367800</updated>
+    </task>
+    <task id="LOCAL‎-00008" summary="update icon app Yam 20.6">
+      <option name="closed" value="true" />
+      <created>1750450598384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL‎-00008" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750450598384</updated>
+    </task>
+    <task id="LOCAL‎-00009" summary="update icon final app Yam 20.6">
+      <option name="closed" value="true" />
+      <created>1750451637760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL‎-00009" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750451637760</updated>
+    </task>
+    <task id="LOCAL‎-00010" summary="update screen book to add comments and insert comment 22.6 Yam">
+      <option name="closed" value="true" />
+      <created>1750615688829</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL‎-00010" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750615688829</updated>
+    </task>
+    <task id="LOCAL‎-00011" summary="add a new pop up to add comment 22.6 Yam">
+      <option name="closed" value="true" />
+      <created>1750624658279</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL‎-00011" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750624658279</updated>
+    </task>
+    <task id="LOCAL‎-00012" summary="fix bugs of adding new comment to a book and update buttons size Yam 23.6">
+      <option name="closed" value="true" />
+      <created>1750676085325</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL‎-00012" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750676085325</updated>
+    </task>
+    <task id="LOCAL‎-00013" summary="fix bugs size Yam 23.6">
+      <option name="closed" value="true" />
+      <created>1750679588597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL‎-00013" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750679588597</updated>
+    </task>
+    <task id="LOCAL‎-00014" summary="fix spash image andriod yam 24.6">
+      <option name="closed" value="true" />
+      <created>1750756288118</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL‎-00014" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750756288118</updated>
+    </task>
+    <task id="LOCAL‎-00015" summary="fix rating bug and improve font size">
+      <option name="closed" value="true" />
+      <created>1750760297675</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL‎-00015" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750760297675</updated>
+    </task>
+    <task id="LOCAL‎-00016" summary="fix bug Yam 24.6 20:07">
+      <option name="closed" value="true" />
+      <created>1750784937167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL‎-00016" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750784937167</updated>
+    </task>
+    <task id="LOCAL‎-00017" summary="fix bug Yam 24.6 20:07">
+      <option name="closed" value="true" />
+      <created>1750846932452</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL‎-00017" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750846932452</updated>
+    </task>
+    <task id="LOCAL‎-00018" summary="omprive search screen add genres and auther search Yam 27.6">
+      <option name="closed" value="true" />
+      <created>1751051324176</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL‎-00018" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751051324176</updated>
+    </task>
+    <task id="LOCAL‎-00019" summary="change size of cells and fix bugs in the search screen Yam 28.6">
+      <option name="closed" value="true" />
+      <created>1751100683770</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL‎-00019" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751100683770</updated>
+    </task>
+    <task id="LOCAL‎-00020" summary="change size of cells and fix bugs in the search screen Yam 28.6">
+      <option name="closed" value="true" />
+      <created>1751107394224</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL‎-00020" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751107394224</updated>
+    </task>
+    <task id="LOCAL‎-00021" summary="fix bug so when you press book it open book reading page Yam 29.6">
+      <option name="closed" value="true" />
+      <created>1751204074709</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL‎-00021" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751204074709</updated>
+    </task>
+    <task id="LOCAL‎-00022" summary="testing functional_testing_1.dart config Yam 29.6">
+      <option name="closed" value="true" />
+      <created>1751218412236</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL‎-00022" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751218412236</updated>
+    </task>
+    <task id="LOCAL‎-00023" summary="merge sequel_to_story.dart from search view and bug fix Yam 30.6">
+      <option name="closed" value="true" />
+      <created>1751310942585</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL‎-00023" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751310942585</updated>
+    </task>
+    <task id="LOCAL‎-00024" summary="bug fix story view from the search screen and main screen Yam 4.7">
+      <option name="closed" value="true" />
+      <created>1751653552460</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL‎-00024" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751653552460</updated>
+    </task>
+    <task id="LOCAL‎-00025" summary="fix bug of books not loading in the search view Yam 5.7">
+      <option name="closed" value="true" />
+      <created>1751710700274</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL‎-00025" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751710700274</updated>
+    </task>
+    <task id="LOCAL‎-00026" summary="test config function testing 1,3 Yam 6.7">
+      <option name="closed" value="true" />
+      <created>1751832446661</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL‎-00026" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1751832446661</updated>
+    </task>
+    <task id="LOCAL‎-00027" summary="test config function testing 2 Yam 6.7">
+      <option name="closed" value="true" />
+      <created>1752224510137</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL‎-00027" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1752224510137</updated>
+    </task>
+    <task id="LOCAL‎-00028" summary="non functional testing Yam 11.7">
+      <option name="closed" value="true" />
+      <created>1752236467731</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL‎-00028" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1752236467731</updated>
+    </task>
+    <task id="LOCAL‎-00029" summary="non functional testing Yam 11.7">
+      <option name="closed" value="true" />
+      <created>1752236561073</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL‎-00029" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1752236561073</updated>
+    </task>
+    <task id="LOCAL‎-00030" summary="fixing the bug of exit story into story maker (all the fetures) and the comment screen YAM 6.8">
+      <option name="closed" value="true" />
+      <created>1754491921069</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL‎-00030" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1754491921069</updated>
+    </task>
+    <task id="LOCAL‎-00031" summary="yam">
+      <option name="closed" value="true" />
+      <created>1754590045926</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL‎-00031" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1754590045926</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="96b70875-722b-44a3-9998-94ed60016f61" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="96b70875-722b-44a3-9998-94ed60016f61">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update home view , book service , top_pick view 15.6" />
+    <MESSAGE value="update user pref to handel genres , update home screen so the genres books and the recent added books will get from thr DB" />
+    <MESSAGE value="add spin loading screen to 2 first fitures Yam 18.6" />
+    <MESSAGE value="update profile screen 20.6" />
+    <MESSAGE value="update icon app Yam 20.6" />
+    <MESSAGE value="update icon final app Yam 20.6" />
+    <MESSAGE value="update screen book to add comments and insert comment 22.6 Yam" />
+    <MESSAGE value="add a new pop up to add comment 22.6 Yam" />
+    <MESSAGE value="fix bugs of adding new comment to a book and update buttons size Yam 23.6" />
+    <MESSAGE value="fix bugs size Yam 23.6" />
+    <MESSAGE value="fix spash image andriod yam 24.6" />
+    <MESSAGE value="fix rating bug and improve font size" />
+    <MESSAGE value="fix bug Yam 24.6 20:07" />
+    <MESSAGE value="omprive search screen add genres and auther search Yam 27.6" />
+    <MESSAGE value="change size of cells and fix bugs in the search screen Yam 28.6" />
+    <MESSAGE value="fix bug so when you press book it open book reading page Yam 29.6" />
+    <MESSAGE value="testing functional_testing_1.dart config Yam 29.6" />
+    <MESSAGE value="merge sequel_to_story.dart from search view and bug fix Yam 30.6" />
+    <MESSAGE value="bug fix story view from the search screen and main screen Yam 4.7" />
+    <MESSAGE value="fix bug of books not loading in the search view Yam 5.7" />
+    <MESSAGE value="test config function testing 1,3 Yam 6.7" />
+    <MESSAGE value="test config function testing 2 Yam 6.7" />
+    <MESSAGE value="non functional testing Yam 11.7" />
+    <MESSAGE value="fixing the bug of exit story into story maker (all the fetures) and the comment screen YAM 6.8" />
+    <MESSAGE value="yam" />
+    <option name="LAST_COMMIT_MESSAGE" value="yam" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

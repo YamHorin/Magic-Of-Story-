@@ -1,0 +1,23 @@
+git rm __pycache__/*.cpython-312.pyc
+git rm ai_utils/__pycache__/*.cpython-312.pyc
+git rm auth/__pycache__/*.cpython-312.pyc
+git rm books/__pycache__/*.cpython-312.pyc
+
+$ find . -name "*.pyc" -delete
+
+
+git remote -v
+
+git remote add upstream https://github.com/YamHorin/AI_books_project.git
+git push upstream master
+
+
+
+{
+
+"email":"yam@smail.com",
+"password" :"yamking113",
+"full_name" :" Yam Horin",
+"mobile" :"0526237177"
+
+}
