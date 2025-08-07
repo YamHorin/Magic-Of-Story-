@@ -8,7 +8,15 @@
  * user can submit books , read them , rate and make a comment 
  * Users can create Children Stories, share them with the world, and read them with music or with a voiceover. The system consists of an application in the Dart language
  *  a server in Python that operates with AI models to create text and images according to prompt
+
+
  
+
+<a href = "https://github.com/AmitIshay/flask_PJ_books" > link to the original git hub repo - SERVER </a>
+
+
+<a href = "https://github.com/AmitIshay/AI_books_project" > link to the original git hub repo - APP FLUTTER</a>
+
 ----
 
 ### 📖 Reading Book Feature (`BookReaderScreen`)
