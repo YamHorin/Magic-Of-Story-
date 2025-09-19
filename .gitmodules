@@ -1,0 +1,6 @@
+[submodule "flask_PJ_books"]
+	path = flask_PJ_books
+	url = https://github.com/AmitIshay/flask_PJ_books
+[submodule "AI_books_project"]
+	path = AI_books_project
+	url = https://github.com/AmitIshay/AI_books_project
