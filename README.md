@@ -162,14 +162,6 @@ dart run name of the test file from the intergration foulder
 ```
 
 
-## 📁 important parts in the code:
-
-| part | Description |link in the code 
-|------|------------|------|
-| story maker part  | Story creation with ai  ,  |לינק לשרת ולאפליקציה 
-| image AI maker |generate images with AI | לינק לשרת ולאפליקציה 
-| book collection intergration| intergration with mongo DB |לינק לשרת ולאפליקציה 
-|  reading a book | Advanced reading application |לינק לשרת ולאפליקציה 
 
 ---
 ## photos 
