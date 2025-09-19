@@ -27,7 +27,7 @@
 - Button to return to the main story screen or home.
 
 
-> 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/APP/lib/bookPages/double_page_viewer.dart"> Double Page Book Viewer file code </a>*
+> 🔗 *<a href = "https://github.com/AmitIshay/AI_books_project/blob/master/lib/bookPages/double_page_viewer.dart"> Double Page Book Viewer file code </a>*
 
 
 
@@ -38,10 +38,10 @@
 - Features buttons: Add Page, Delete Page, Create Story.
 - Send the story to the Flask server to generate content, including images.
 
-> 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/SERVER/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 80 -175 ) </a>*
+> 🔗 *<a href = "https://github.com/AmitIshay/flask_PJ_books/blob/main/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 80 -175 ) </a>*
 
 
-> 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/APP/lib/features/create_own_story.dart"> part in the code that that is the app interface (all the file)  </a>*
+> 🔗 *<a href = "https://github.com/AmitIshay/flask_PJ_books/main/APP/lib/features/create_own_story.dart"> part in the code that that is the app interface (all the file)  </a>*
 
 ---
 
@@ -50,7 +50,7 @@
 - Text fields for answering each question.
 - Responses are stored in a map to build the story based on your answers.
 
-> 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/SERVER/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 175 - 250 ) </a>*
+> 🔗 *<a href = "https://github.com/AmitIshay/flask_PJ_books/blob/main/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 175 - 250 ) </a>*
 
 > 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/APP/lib/features/create_story_assistance.dart"> part in the code that that is the app interface (all the file)  </a>*
 
@@ -68,7 +68,7 @@
 
 > 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/APP/lib/common_widget/history_row.dart"> part in the profile book screen (that can launch the new story screen after select the book (from line 20  all the way the and )</a>*
 
-> 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/SERVER/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 287 -426 ) </a>*
+> 🔗 *<a href = "https://github.com/AmitIshay/flask_PJ_books/blob/main/ai_utils/childrenStoryMaker.py"> part in the server that makes the book object pages and images (from line 287 -426 ) </a>*
 
 
 > 🔗 *<a href = "https://github.com/YamHorin/Magic-Of-Story-/blob/main/APP/lib/search/search_fiter_view.dart"> part in the filter the search part (all the file) </a>*
